@@ -65,3 +65,17 @@ img {
         width: 120px;
     }
 }
+@media (max-width: 768px) {
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+
+    img {
+        width: 120px;
+    }
+
+    body {
+        padding: 10px;
+    }
+}
