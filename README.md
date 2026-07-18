@@ -16,3 +16,5 @@ This is a simple personal portfolio website created using HTML and CSS.
 
 ## Author
 Vikasini
+## Version
+1.0
